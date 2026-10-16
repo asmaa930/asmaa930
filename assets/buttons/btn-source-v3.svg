@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="173.9" height="58" viewBox="0 0 173.9 58" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="bgcs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a1740"/><stop offset="1" stop-color="#121030"/></linearGradient>
+<clipPath id="cs"><rect x="1.5" y="1.5" width="197" height="43" rx="21.5"/></clipPath></defs>
+<g transform="scale(0.8696)">
+<rect x="1.5" y="1.5" width="197" height="43" rx="21.5" fill="url(#bgcs)" stroke="#7c5cf0" stroke-width="2"/>
+<g clip-path="url(#cs)"><rect x="-60" y="-4" width="26" height="54" fill="#a78bfa" opacity=".25" transform="skewX(-20)"><animate attributeName="x" values="-60;-60;240" keyTimes="0;0.55;1" dur="3.6s" repeatCount="indefinite"/></rect></g>
+<g fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M37 16 L29 23 L37 30"><animateTransform attributeName="transform" type="translate" values="0 0;-3 0;0 0" dur="1.6s" repeatCount="indefinite"/></path>
+<path d="M47 16 L55 23 L47 30"><animateTransform attributeName="transform" type="translate" values="0 0;3 0;0 0" dur="1.6s" repeatCount="indefinite"/></path>
+<path d="M44 15 L40 31" stroke-width="2.5"><animate attributeName="opacity" values="1;.35;1" dur="1.6s" repeatCount="indefinite"/></path></g>
+<text x="66" y="28" fill="#ffffff" font-size="13" font-weight="800" letter-spacing="1.6">SOURCE CODE</text>
+</g></svg>
